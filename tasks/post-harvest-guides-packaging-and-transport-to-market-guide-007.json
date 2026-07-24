@@ -1,0 +1,29 @@
+{
+  "id": "post-harvest-guides-packaging-and-transport-to-market-guide-007",
+  "title": "Packaging and transport to market guide",
+  "project": "post-harvest-guides",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "agriculture",
+    "food-security"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Smallholder farmers lose produce to poor packaging and transport to market; plain-language open guidance reduces loss.",
+  "objective": "Write a plain-language guide to packaging and transport to market summarizing established practice: why it matters, the practice, common mistakes, and sources.",
+  "acceptanceCriteria": [
+    "Covers packaging and transport to market as established general practice",
+    "General educational guidance only; no chemical dosing or farm-specific prescriptions",
+    "Cites >=2 authoritative open sources (e.g. FAO) with links",
+    "CC-BY-4.0 header + attributions"
+  ],
+  "output": "deliverables/post-harvest-guides-packaging-and-transport-to-market-guide-007.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}

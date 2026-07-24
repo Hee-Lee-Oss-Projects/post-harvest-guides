@@ -1,0 +1,29 @@
+{
+  "id": "post-harvest-guides-guide-style-standard-001",
+  "title": "Guide style + sourcing standard",
+  "project": "post-harvest-guides",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "high",
+  "domain": [
+    "agriculture",
+    "food-security"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "small",
+  "status": "open",
+  "context": "A consistent, source-cited style keeps guides trustworthy.",
+  "objective": "Define the guide structure (why it matters, established practice, common mistakes, sources) and sourcing rules for post-harvest guides.",
+  "acceptanceCriteria": [
+    "Defines structure and sourcing rules",
+    "Requires >=2 authoritative open sources per guide",
+    "Includes a short worked example",
+    "CC-BY-4.0 header"
+  ],
+  "output": "deliverables/post-harvest-guides-guide-style-standard-001.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}

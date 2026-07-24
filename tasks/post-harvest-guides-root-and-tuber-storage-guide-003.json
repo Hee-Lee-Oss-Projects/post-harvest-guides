@@ -1,0 +1,29 @@
+{
+  "id": "post-harvest-guides-root-and-tuber-storage-guide-003",
+  "title": "Root and tuber storage guide",
+  "project": "post-harvest-guides",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "agriculture",
+    "food-security"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Smallholder farmers lose produce to poor root and tuber storage; plain-language open guidance reduces loss.",
+  "objective": "Write a plain-language guide to root and tuber storage summarizing established practice: why it matters, the practice, common mistakes, and sources.",
+  "acceptanceCriteria": [
+    "Covers root and tuber storage as established general practice",
+    "General educational guidance only; no chemical dosing or farm-specific prescriptions",
+    "Cites >=2 authoritative open sources (e.g. FAO) with links",
+    "CC-BY-4.0 header + attributions"
+  ],
+  "output": "deliverables/post-harvest-guides-root-and-tuber-storage-guide-003.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}
