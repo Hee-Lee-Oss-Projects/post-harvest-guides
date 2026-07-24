@@ -1,0 +1,28 @@
+{
+  "id": "post-harvest-grain-storage-001",
+  "title": "Grain drying and safe storage guide",
+  "project": "post-harvest-guides",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "high",
+  "domain": ["agriculture", "food-security"],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Smallholder farmers lose a large share of cereal harvests to poor drying and storage. FAO and other bodies publish established good practice, but not in one short, plain-language, openly-licensed guide.",
+  "objective": "Write a concise, plain-language guide to drying grain to a safe moisture level and storing it to minimize loss and pest damage, summarizing established practice from authoritative open sources.",
+  "acceptanceCriteria": [
+    "Sections: why it matters, drying to safe moisture, choosing/preparing storage, preventing pests and mold, common mistakes",
+    "Written for non-specialists at roughly an 8th-grade reading level",
+    "Cites at least 2 authoritative open sources (e.g. FAO) with links",
+    "Stays within established general practice; gives no farm-specific or chemical-dosing advice",
+    "Includes a CC-BY-4.0 license header and source attributions"
+  ],
+  "resources": ["FAO post-harvest and grain-storage guidance"],
+  "output": "guides/grain-drying-and-storage.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}

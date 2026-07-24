@@ -1,0 +1,33 @@
+{
+  "id": "post-harvest-pest-safe-storage-004",
+  "title": "Pest-safe grain storage basics guide",
+  "project": "post-harvest-guides",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "agriculture",
+    "food-security"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Storage pests destroy stored grain; non-chemical and low-risk protective basics are well established but not collected in one open guide.",
+  "objective": "Write a plain-language guide to low-risk, non-chemical basics for protecting stored grain from insects and rodents (hermetic bags, cleaning, inspection), summarizing established open guidance.",
+  "acceptanceCriteria": [
+    "Covers container hygiene, hermetic/airtight storage, inspection routines, and rodent exclusion",
+    "Explicitly avoids pesticide dosing or product recommendations",
+    "Cites >=2 authoritative open sources with links",
+    "8th-grade reading level",
+    "CC-BY-4.0 header + attributions"
+  ],
+  "resources": [
+    "FAO post-harvest guidance"
+  ],
+  "output": "guides/pest-safe-storage.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}
